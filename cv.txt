@@ -1,0 +1,45 @@
+Seward Richard Mupereri
+Junior Software Engineer | Automation & AI Developer
+sewardrichardmupereri@gmail.com  •  LinkedIn  •  Website •  +27 69 637 2803  •  Pretoria, South Africa  
+
+SUMMARY
+Junior Software Engineer with hands-on experience building backend systems, RESTful APIs, and intelligent automation tools. Passionate about leveraging technology to solve real-world operational challenges, demonstrated by creating a full-stack automation suite that reduced manual workflow time by over 60% while improving data accuracy and consistency. Eager to apply a versatile skill set in Python, Power Automate, AI, and cloud platforms to contribute to any mission. Actively developing skills in AI agent integration using LangChain and the Gemini API, and a strong believer in collaborative, agile development practices.
+
+CORE SKILLS AND TOOLS
+Backend & Frameworks: Python • FastAPI  • Node.js • JavaScript/React • Next.js • VBA(Familiarity)
+AI & Machine Learning: LangChain • Gemini API  • NumPy • AI Prompting • Vibe Coding
+Databases & Cloud: AWS (S3, EC2) (Familiarity) • SQLite • PostgreSQL • SQL
+DevTools & Other: Git • GitHub • Docker (Familiarity) • Power Automate • Linux • Streamlit • OpenPyXL
+
+WORK EXPERIENCE
+Junior Software Engineer/ IT Support, Arcadia, Pretoria
+October 2024 - Present
+RBR Group Pty Ltd - Hybrid
+Invented and built the “WP2 - Working Paper Populator”, a Python‑based automation system that generates working papers, shortcuts Excel reconciliation, and drives real‑time validation, reducing manual processing times by over 80% and raising data accuracy and quality consistency.
+Expanded automation initiatives beyond the core application, implementing Microsoft Power Automate workflows for file-change notifications and standardized folder and template creation, and authoring multiple VBA scripts to automate repetitive tasks in Word and Excel.
+Owned the entire codebase end-to-end, managing version control with Git and maintaining high code quality through disciplined commits, clear documentation, and consistent coding standards.
+Demoed the suite to prospects, helping leadership win a new client contract within the first quarter of deployment.
+Set up and administered the company’s Microsoft 365 business account: activated licenses, created and managed user accounts, and established a centralized SharePoint site with access controls for a team of 20, enabling secure, collaborative daily workflows.
+
+PROJECTS
+Full Stack Application: Automated Working Paper Generator (WP2)
+January 2025
+Python (Pandas, NumPy, OpenPyXL, Streamlit)
+Architected a full-stack tool that automated over 60% of audit working-paper preparation, cutting turnaround time from hours to minutes.
+Integrated data cleaning, validation, and PDF export into a single workflow, wrapped in an easy-to-use Streamlit interface for non-technical team members.
+View Project Website
+
+AI Prompt Optimization Tool
+July 2025
+Python, LangChain, Gemini API, Streamlit 
+Developed a prompt engineering tool to systematically refine and test prompts for Large Language Models (LLMs), leveraging LangChain and the Gemini API to enhance output quality and efficiency.
+Built an intuitive user interface with Streamlit, enabling users to experiment with different prompt structures and parameters to achieve optimal results for chatbot and AI agent interactions.
+View Project Website
+
+EDUCATION & CERTIFICATIONS
+BSc(Hons) Computer Engineering - European University of Lefke
+Sept 2020 - Jun 2024
+AWS Certified Cloud Practitioner - Amazon Web Services
+September 2024
+AWS Certified AI Practitioner - Amazon Web Services
+In Progress
